@@ -1,0 +1,14 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "ATM methode",
+  "main": "atm.js",
+  "type": "module",
+  "scripts": {
+    "test": "node atm_test.js"
+  },
+  "author": "Dorian LE NORMAND",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
