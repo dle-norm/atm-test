@@ -1,7 +1,7 @@
 module.exports = {
     /*
-     * Give the cash asken in 2€, 5€, 10€ coins
-     * @param number ask        the amount asken
+     * Give the cash asked in 2€, 5€, 10€ coins
+     * @param number ask        the amount asked
      * @return object {
      *   two: 3,      3 coins of 2€
      *   five: 0,     0 banknotes of 5€
